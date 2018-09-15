@@ -1,6 +1,13 @@
-# FbMultiSite
+# Firebase Hosting: Testing New Multisite Feature
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.0-beta.3.
+
+## Sites
+
+Both sites are running on the same Firebase project "jmw-codelab"
+
+- [Site 1: A font-end client app](https://jmw-codelab.firebaseapp.com "The Client Site")
+- [Site 2: A font-end admin app](https://jmw-codelab-admin.firebaseapp.com "The Admin Site")
 
 ## Development server
 
