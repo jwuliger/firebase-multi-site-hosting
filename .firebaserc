@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "jmw-codelab"
+  },
+  "targets": {
+    "jmw-codelab": {
+      "hosting": {
+        "client": [
+          "jmw-codelab"
+        ],
+        "admin": [
+          "jmw-codelab-admin"
+        ]
+      }
+    }
+  }
+}
